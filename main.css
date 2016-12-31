@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Kumar+One');
+
+body
+{
+	background-color: #4d708a;
+	color:white;
+}
+
+.titlecontainer
+{
+	position: relative;
+	background-color: black;
+	width: 100%;
+	height: 8vh;
+	margin:0 auto;
+
+}
+
+.row
+{
+
+	
+}
+
+hr
+{
+	margin-top:10px;
+}
+
+.title
+{
+	position: relative;
+	/*top:10px;*/
+	font-family: 'Kumar One', cursive;
+	text-align: center;
+}
+
+.left-col
+{
+	background-color: red;
+}
+
+.right-col
+{
+	background-color: purple;
+	margin:0 auto;
+	position: relative;
+
+}
+
+.right-col, .left-col p
+{
+	font-size: 1.5em;
+}
