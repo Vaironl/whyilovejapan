@@ -89,18 +89,10 @@ hr
 
 .left-col
 {
-	/*background-color: red;*/
+	float:left;
 }
 
 .right-col
 {
-	/*background-color: purple;*/
-	margin:0 auto;
-	position: relative;
-
+	float:right;
 }
-/*
-.right-col, .left-col p
-{
-	font-size: 1.5em;
-}*/

@@ -33,13 +33,14 @@
 		</div>
 		<hr>
 		<div class="row">
-			<div class="left-col col-md-7 vertical-center">
-				<p class="row-p">My love for cars started quite late in life. I never had HotWheels toys as a kid. However, after I got my first car I started to learn about all types of cars. Japanese sport cars such as the Subaru WRX STI and the Toyota Supra quickly became my dream cars. Many people state that these cars are the pinnacle of their respective companies and I would have to agree.</p>
-			 </div>
-			 <div class="right-col col-md-5">
+		 	<div class="right-col col-md-5">
 				<h2>Cars</h2>
 				<img class="row-image" src="mazda.jpg">
 			</div>
+			<div class="left-col col-md-7 vertical-center">
+				<p class="row-p">My love for cars started quite late in life. I never had HotWheels toys as a kid. However, after I got my first car I started to learn about all types of cars. Japanese sport cars such as the Subaru WRX STI and the Toyota Supra quickly became my dream cars. Many people state that these cars are the pinnacle of their respective companies and I would have to agree.</p>
+			 </div>
+			
 		</div>
 
 		<hr>
