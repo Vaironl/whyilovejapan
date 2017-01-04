@@ -13,28 +13,31 @@
 	</div>
 
 	<div class="container">
+			<img class="header-image" src="topimage.jpg">	
+	</div>
+	
+
+	<hr class="top-divider">
+
+	<div class="container">
 
 		<div class="row">
 			<div class="left-col col-md-4">
 				<h2>Food</h2>
-				<img width="200px" height="200px" src="">
+				<img class="row-image" src="japan_food.jpg">
 			</div>
 			<div class="right-col col-md-5 vertical-center">
-				<p>Lore ipsum craptulum rotinium colasdlkajkd aojdnaksd saojd as[od naspkdnkasdiosadpoasd 
-				asdkiasdnaskodokasdn aid naokdn asknd aujn dpia dpiosadiajdpasj da-91-9 iapidpaksdj iajsdpias jpdad
-				 aikpdaspikdapsodpasdjopas</p>
+				<p class="row-p">One of the traits people tend to like about a culture is the food. I am no exception, because the food in Japan is amazing. Most of us think of sushi when we think of Japanese food. However, there are quite a vast amount of options of food in Japan. My favorite being Mochi!</p>
 			 </div>
 		</div>
 		<hr>
 		<div class="row">
 			<div class="left-col col-md-5 vertical-center">
-				<p>Lore ipsum craptulum rotinium colasdlkajkd aojdnaksd saojd as[od naspkdnkasdiosadpoasd 
-				asdkiasdnaskodokasdn aid naokdn asknd aujn dpia dpiosadiajdpasj da-91-9 iapidpaksdj iajsdpias jpdad
-				 aikpdaspikdapsodpasdjopas</p>
+				<p class="row-p">My love for cars started quite late in life. I never had HotWheels toys as a kid. However, after I got my first car I started to learn about all types of cars. Japanese sport cars such as the Subaru WRX STI and the Toyota Supra quickly became my dream cars. Many people state that these cars are the pinnacle of their respective companies and I would have to agree.</p>
 			 </div>
 			 <div class="right-col col-md-4">
 				<h2>Cars</h2>
-				<img width="200px" height="200px" src="">
+				<img class="row-image" src="mazda.jpg">
 			</div>
 		</div>
 
