@@ -20,7 +20,7 @@
 
 	<hr class="top-divider">
 
-	<div class="container">
+	<div class="container info-container">
 
 		<div class="row">
 			<div class="left-col col-md-5">
